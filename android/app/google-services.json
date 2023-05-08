@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "678417045180",
+    "project_id": "kitchen-genius",
+    "storage_bucket": "kitchen-genius.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:678417045180:android:8bae3af15258a8bfd1e2b9",
+        "android_client_info": {
+          "package_name": "com.example.kitchen_genius"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "678417045180-2ifj8dd2tdvscm27bks2enlghaudvgeg.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBpzJ6BME-Q_k0EL8TCrdTIKiUhZ_xrhSI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "678417045180-2ifj8dd2tdvscm27bks2enlghaudvgeg.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
